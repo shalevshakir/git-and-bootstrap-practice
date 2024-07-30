@@ -1,0 +1,9 @@
+.buttonsize {
+    width: 50%;
+    height: 50vh;
+    float: right;
+}
+.imagesize{ height:50vh ; 
+    width: 40%; float: left;margin-left: 5%; margin-top: 2%;}
+
+
